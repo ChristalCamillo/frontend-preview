@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/**
+ * Design Tokens - Bootcamp Sysmap 2026
+ */
+@theme {
+  /* Paleta de Cores da Marca */
+  --color-brand-primary: #00BC7D;
+  --color-brand-dark: #009966;
+  --color-brand-warning: #FBBC05;
+  --color-danger: #E7000B;
+
+  /* Escala de Textos */
+  --color-text-title: #171717;
+  --color-text-label: #191919;
+  --color-text-base: #404040;
+  --color-text-muted: #A1A1A1;
+
+  /* Cores de Interface (Bordas e Fundos) */
+  --color-border-default: #E5E5E5;
+  --color-border-focus: #D4D4D4;
+  --color-bg-disabled: #F7F7F7;
+
+  /* Tipografia */
+  --font-bebas: "Bebas Neue", sans-serif;
+  --font-sans: "DM Sans", sans-serif;
+}
